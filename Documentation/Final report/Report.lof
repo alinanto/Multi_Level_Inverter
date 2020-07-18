@@ -1,0 +1,37 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Two phase diode clamped multilevel inverter}}{13}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Capacitor-Clamped Multilevel Inverter}}{15}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Single H-Bridge Topology}}{16}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Switched Capacitor 9-level inverter circuit}}{17}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Modes of operation}}{20}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Phase Disposition PWM Scheme}}{22}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Switching diagram}}{23}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Simulink circuit}}{24}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Simulink Pulse Derivation}}{25}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Measurement Block}}{26}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Simulink analysis}}{27}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Simulink Output}}{28}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Simulink FFT analysis with R load}}{29}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Simulink FFT analysis with RL load}}{29}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces IRFP460}}{31}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces MUR460}}{31}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces DSPICIC30F2020 Pin diagram.}}{32}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces TLP250 Pin Configuration}}{34}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Gate Driver Power Supply Circuit}}{35}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces DSPIC Board Design}}{36}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces DSPIC Board PCB Realisation}}{36}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Inverter Realisation}}{37}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces PCB Toner Transfer}}{37}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Inverter PCB Design}}{37}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Driver Supply Realization}}{38}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Driver Supply PCB Design}}{38}
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Nine level inverter hardware}}{39}
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Hardware}}{40}
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Output voltage waveform for R load (R=100$\Omega $)}}{41}
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Output voltage and current waveforms for RL load (R=300$\Omega $, L=20mH)}}{42}
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Output voltage and current waveforms for RL load (R=100$\Omega $, L=40mH)}}{42}
+\addvspace {10\p@ }

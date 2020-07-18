@@ -1,0 +1,39 @@
+\begin{thebibliography}{1}
+
+\bibitem{ngo2018single}
+B.-B. Ngo, M.-K. Nguyen, J.-H. Kim, and F.~Zare, ``Single-phase multilevel
+  inverter based on switched-capacitor structure,'' {\em IET Power
+  Electronics}, vol.~11, no.~11, pp.~1858--1865, 2018.
+
+\bibitem{williams2006principles}
+B.~W. Williams, ``Principles and elements of power electronics,'' {\em Devices,
+  Drivers, Applications and Passive Components}, p.~1432, 2006.
+
+\bibitem{ye2014step}
+Y.~Ye, K.~W.~E. Cheng, J.~Liu, and K.~Ding, ``A step-up switched-capacitor
+  multilevel inverter with self-voltage balancing,'' {\em IEEE Transactions on
+  industrial electronics}, vol.~61, no.~12, pp.~6672--6680, 2014.
+
+\bibitem{bhagyalakshmi2017switched}
+P.~Bhagyalakshmi, B.~M. Varghese, and B.~M. Jos, ``Switched capacitor
+  multilevel inverter with different modulation techniques,'' in {\em 2017
+  International Conference on Innovations in Information, Embedded and
+  Communication Systems (ICIIECS)}, pp.~1--6, IEEE, 2017.
+
+\bibitem{rodriguez2002multilevel}
+J.~Rodriguez, J.-S. Lai, and F.~Z. Peng, ``Multilevel inverters: a survey of
+  topologies, controls, and applications,'' {\em IEEE Transactions on
+  industrial electronics}, vol.~49, no.~4, pp.~724--738, 2002.
+
+\bibitem{kouro2010recent}
+S.~Kouro, M.~Malinowski, K.~Gopakumar, J.~Pou, L.~G. Franquelo, B.~Wu,
+  J.~Rodriguez, M.~A. P{\'e}rez, and J.~I. Leon, ``Recent advances and
+  industrial applications of multilevel converters,'' {\em IEEE Transactions on
+  industrial electronics}, vol.~57, no.~8, pp.~2553--2580, 2010.
+
+\bibitem{hinago2011switched}
+Y.~Hinago and H.~Koizumi, ``A switched-capacitor inverter using series/parallel
+  conversion with inductive load,'' {\em IEEE Transactions on industrial
+  electronics}, vol.~59, no.~2, pp.~878--887, 2011.
+
+\end{thebibliography}
