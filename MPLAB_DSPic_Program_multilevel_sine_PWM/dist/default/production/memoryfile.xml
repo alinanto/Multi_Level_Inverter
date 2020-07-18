@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/MPLAB_DSPic_Program.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>512</length>
+      <used>404</used>
+      <free>108</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>11904</length>
+      <used>1929</used>
+      <free>9975</free>
+    </memory>
+  </executable>
+</project>
